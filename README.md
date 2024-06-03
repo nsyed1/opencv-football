@@ -11,7 +11,7 @@ computer vision analysis of football project to learn
 
 ## Learnings
 - additional detection options: keypoints for pose-detection, masks for segmentation
-
+- converting video into frames, inference on individual frames into list detection object, creating tracker on list of detections
 
 ## Notes
 
